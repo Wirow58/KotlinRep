@@ -1,0 +1,2 @@
+Jestem stringiem z pliku!!!
+I jego drugą linią!!!
